@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run titstreamlit.py
+web: sh setup.sh && streamlit run titstrreamlit.py
