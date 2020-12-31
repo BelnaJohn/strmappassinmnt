@@ -4,6 +4,9 @@ Created on Tue Dec 29 23:28:15 2020
 
 @author: USER
 """
+pip install sklearn.metrics
+pip install sklearn.model_selection
+pip install sklearn.linear_model
 import streamlit as st
 import pandas as pd
 import numpy as np
